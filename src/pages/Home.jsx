@@ -1,5 +1,10 @@
 import React from "react";
 
+import evryDay from '../assets//why-choose-us/24-hours.png'
+import shop from '../assets//why-choose-us/shopping-cart.png'
+import fast from '../assets//why-choose-us/fast.png'
+import product from '../assets//why-choose-us/new-product.png'
+
 export default function Home() {
   return (
     <>
@@ -29,10 +34,12 @@ export default function Home() {
       <div className="product-section">
         <div className="container">
           <div className="product-container">
-            <h1>Our Best Products</h1>
+            <div className="title">
+              <h2>Our Best Products</h2>
+            </div>
             <div className="product-content">
               <div className="card-content">
-                <h2>Repellendus quidem.</h2>
+                <h3>Repellendus quidem.</h3>
                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus ducimus nesciunt provident maxime totam itaque?</p>
                 <button className="btn">
                   Explore
@@ -68,6 +75,54 @@ export default function Home() {
         </div>
       </div>
       {/* End Product Section */}
+
+      {/* Start why Choose us Section */}
+      <div className="why-choose-us">
+        <div className="container">
+          <div className="why-choose-us-container">
+            <div className="title">
+              <h2>Why Choose Us</h2>
+              <p>What will you get from us?</p> 
+            </div> 
+            <div className="why-choose-us-content">
+              <div className="why-choose-us-img">
+                <img src="https://picsum.photos/600/600" alt="" />
+              </div>
+              <div className="why-choose-us-boxes">
+                <div className="boxes-item">
+                  <div className="item-icon">
+                    <img src={evryDay} alt="" />
+                  </div>
+                  <h3>Best Quality</h3>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
+                </div>
+                <div className="boxes-item">
+                  <div className="item-icon">
+                    <img src={shop} alt="" />
+                  </div>
+                  <h3>Best Quality</h3>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
+                </div>
+                <div className="boxes-item">
+                  <div className="item-icon">
+                    <img src={fast} alt="" />
+                  </div>
+                  <h3>Best Quality</h3>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
+                </div>
+                <div className="boxes-item">
+                  <div className="item-icon">
+                    <img src={product} alt="" />
+                  </div>
+                  <h3>Best Quality</h3>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
+                </div>
+              </div>
+            </div>
+          </div>          
+        </div>
+      </div>
+      {/* End why Choose us Section */}
     </>
   );
 }
