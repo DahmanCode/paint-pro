@@ -1,0 +1,119 @@
+{
+  "dynamicProducts": [
+    {
+      "title": "Flat Emulsion",
+      "description": [
+        "Offers a non-reflective, matte finish that helps to hide imperfections on ceiling surfaces.",
+        "Provides goods coverage and help mask minor surface irregularities, ideal for ceiling.",
+        "It low sheen level which means makes it reflect minimal light and offer smooth, even appearance.",
+        "It dries relatively quickly, allowing for faster completion of painting projects."
+      ],
+      "img4L": "src/assets/DynamicProduct/DynamicFlatEmulsionForCeiling.png",
+      "color": ["white", "pale tones", "mid tones", "deep tones"],
+      "price4L": ["₦8100", "₦8540", "₦8540", "₦8920"]
+    },
+    {
+      "title": "Exterior Matte",
+      "description": [
+        "Provides a smooth, muted finish that help to hide defects on the surfaces.",
+        "Reduces glares from sunlight.",
+        "Offers understated look that can enhance the overall aesthetic of the exterior of a building.",
+        "Allows bold tones stand out in a vibrant manners."
+      ],
+      "img4L": "src/assets/DynamicProduct/Dynamic Exterior Matte 4ltrs.png",
+      "img20L": "src/assets/DynamicProduct/Dynamic Exterior Matte 20ltrs.png",
+      "color": ["white", "pale tones", "mid tones", "deep tones"],
+      "price4L": ["₦15123", "₦15553", "₦15553", "₦15553"],
+      "price20L": ["₦52342", "₦52832", "₦52832", "₦54333"]
+    },
+    {
+      "title": "Exterior Flat",
+      "description": [
+        "Used to hide defects on exterior surfaces.",
+        "Contains UV- resistant additives, preventing color from fading.",
+        "Suitable for exterior surfaces exposed to sunlight, rain and wind.",
+        "Can also serve as primer before applying other superior exterior product."
+      ],
+      "img4L": "src/assets/DynamicProduct/Dynamic Exterior Flat 4ltrs.png",
+      "color": ["white"],
+      "price4L": ["₦12211"]
+    },
+    {
+      "title": "Satin",
+      "description": [
+        "It provides a subtle shine.",
+        "It very resistant to moisture, making it suitable for various surfaces.",
+        "It relatively easy to clean and maintain.",
+        "Satin tends to resist fingerprint and smudges well than higher gloss finishes.",
+        "It also a very versatile finish that spreads well over walls, woodwork and even furniture.",
+        "It produces less glare than high-gloss finishes making it suitable for areas with lighting.",
+        "Seamless touch-ups.",
+        "Mildew-resistant finish."
+      ],
+      "img4L": "src/assets/DynamicProduct/Dynamic satin 4ltrs.png",
+      "img20L": "src/assets/DynamicProduct/Dynamic Satin 20ltrs.png",
+      "color": ["white", "pale tones", "mid tones", "deep tones"],
+      "price4L": ["₦16321", "₦16321", "₦16921", "₦17933"],
+      "price20L": ["₦63122", "₦63122", "₦63122", "₦65002"]
+    },
+    {
+      "title": "Matte",
+      "description": [
+        "Matte offers a smooth and even texture that’s pleasing to touch.",
+        "it helps conceal minor surfaces defects like scratches and dents from plastering.",
+        "absence of reflection reduces glare, making it suitable for spaces with natural light.",
+        "the reflection it provides makes matte surface easy for the eyes.",
+        "offers a modern and elegant look for interior designs."
+      ],
+      "img4L": "src/assets/DynamicProduct/Dynamic Matte 4ltrs.png",
+      "img20L": "src/assets/DynamicProduct/Dynamic matte finish 20ltrs.png",
+      "color": ["white", "pale tones", "mid tones", "deep tones"],
+      "price4L": ["₦10005", "₦11255", "₦11625", "₦12005"],
+      "price20L": ["₦47320", "₦47320", "₦48230", "₦50230"]
+    },
+    {
+      "title": "Pearl",
+      "description": [
+        "Creating a captivating visual effect.",
+        "Imparts a luxurious and high end look to surfaces.",
+        "It scatters light, reducing harsh reflections and creating a softer, more ambient lighting properties.",
+        "Their smooth textured makes pearl finish relatively easy to clean and maintain.",
+        "Can be applied to various surfaces, including walls, furniture, and decorative accents.",
+        "It offers improved resistance to fading and discoloration from ultraviolet (UV) rays.",
+        "Seamless touch-ups.",
+        "Mildew-resistant finish."
+      ],
+      "img20L": "src/assets/DynamicProduct/Dynamic Pearl 20ltrs.png",
+      "color": ["white", "pale tones", "mid tones", "deep tones"],
+      "price20L": ["₦78255", "₦78225", "₦78299", "₦81299"]
+    },
+    {
+      "title": "Acrylic Matte",
+      "description": [
+        "Provides smoother finish making it ideal for artwork and displays",
+        "Dries relatively quicker, allowing efficiently laying colors without waiting for extended dry time.",
+        "Resists scuffing and burnishing.",
+        "Unparalleled color depth and richness with smooth, uniform color.",
+        "Mildew-resistant finish."
+      ],
+      "img20L": "src/assets/DynamicProduct/Dynamic Acrylic Matte 20ltrs.png",
+      "img4L": "src/assets/DynamicProduct/Dynamic Acylic Matte 4ltrs.png",
+      "color": ["white", "pale tones", "mid tones", "deep tones"],
+      "price20L": ["₦53182", "₦53102", "₦55102", "₦55711"]
+    },
+    {
+      "title": "Eggshell",
+      "description": [
+        "Offers soft, low-Luster finish.",
+        "Resistant to scruff, stain and minor wears making it suitable for high level areas.",
+        "Relatively easy to clean.",
+        "Help conceal minor surface defect due to its low reflectivity.",
+        "It strike a balance between matte and glossy.",
+        "Mildew-resistant finish."
+      ],
+      "img4L": "src/assets/DynamicProduct/Dynamic Eggshell 4ltrs.png",
+      "color": ["white", "pale tones", "mid tones", "deep tones"],
+      "price4L": ["₦13623", "₦13623", "₦14032", "14923"]
+    }
+  ]
+}

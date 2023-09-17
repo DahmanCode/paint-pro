@@ -1,0 +1,77 @@
+{
+  "dynamicProducts": [
+    {
+      "title": "Matte",
+      "description": [
+        "Matte offers a smooth and even texture that’s pleasing to touch.",
+        "It helps conceal minor surfaces defects like scratches and dents from plastering.",
+        "absence of reflection reduces glare, making it suitable for spaces with natural light.",
+        "the reflection it provides makes matte surface easy for the eyes.",
+        "offers a modern and elegant look for interior designs."
+      ],
+      "img": "src/assets/DynamitProduct/DynamiteMatte20lts.png",
+      "color": ["white", "pale tones", "mid tones", "deep tones"],
+      "price": ["₦63232", "₦63232", "₦63232", "₦63232"],
+      "dprice": ["₦56909", "₦56909", "₦56909", "₦56909"]
+    },
+    {
+      "title": "Eggshell",
+      "description": [
+        "Offers soft, low-Luster finish.",
+        "Resistant to scruff, stain and minor wears making it suitable for high level areas.",
+        "Relatively easy to clean.",
+        "Help conceal minor surface defect due to its low reflectivity.",
+        "It strike a balance between matte and glossy.",
+        "Mildew-resistant finish."
+      ],
+      "img": "src/assets/DynamitProduct/DynamiteEggshell.png",
+      "color": ["white", "pale tones", "mid tones", "deep tones"],
+      "price": ["₦72543", "₦72543", "₦72543", "₦72543"],
+      "dprice": ["₦65289", "₦65289", "₦65289", "₦65289"]
+    },
+    {
+      "title": "Acrylic Matte",
+      "description": [
+        "Provides smoother finish making it ideal for artwork and displays.",
+        "Dries relatively quicker, allowing efficiently laying colors without waiting for extended dry time.",
+        "Resists scuffing and burnishing.",
+        "Unparalleled color depth and richness with smooth, uniform color.",
+        "Mildew-resistant finish."
+      ],
+      "img": "src/assets/DynamitProduct/DynamiteAcrylicMatte20ltr.png",
+      "color": ["white", "pale tones", "mid tones", "deep tones"],
+      "price": ["₦67233", "₦67233", "₦67233", "₦67233"],
+      "dprice": ["₦60510", "₦60510", "₦60510", "₦60510"]
+    },
+    {
+      "title": "Satin",
+      "description": [
+        "It provides a subtle shine",
+        "It very resistant to moisture, making it suitable for various surfaces.",
+        "It relatively easy to clean and maintain.",
+        "Satin tends to resist fingerprint and smudges well than higher gloss finishes.",
+        "It also a very versatile finish that spreads well over walls, woodwork and even furniture.",
+        "It produces less glare than high-gloss finishes making it suitable for areas with lighting.",
+        "Seamless touch-ups.",
+        "Mildew-resistant finish."  
+      ],
+      "img": "src/assets/DynamitProduct/DynamiteSatin20ltrs.png",
+      "color": ["white", "pale tones", "mid tones", "deep tones"],
+      "priceL": ["₦81088", "₦81088", "₦81088", "₦81088"],
+      "dpriceL": ["₦72980", "₦72980", "₦72980", "₦72980"]
+    },
+    {
+      "title": "Exterior Matte",
+      "description": [
+        "Provides a smooth, muted finish that help to hide defects on the surfaces.",
+        "Reduces glares from sunlight.",
+        "Offers understated look that can enhance the overall aesthetic of the exterior of a building.",
+        "Allows bold tones stand out in a vibrant manners."
+      ],
+      "img": "src/assets/DynamitProduct/DynamiteExteriorMatte20ltr.png",
+      "color": ["white", "pale tones", "mid tones", "deep tones"],
+      "priceL": ["₦72980", "₦72980", "₦72980", "₦72980"],
+      "dpriceL": ["₦65682", "₦65682", "₦65682", "₦65682"]
+    }
+  ]
+}
